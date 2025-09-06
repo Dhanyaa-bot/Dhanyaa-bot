@@ -3,7 +3,8 @@
 - 📫 How to reach me- dhanyashreebalya@gmail.com
 
 
-I just shared some of my sample works here. It includes the websites created using html,css,php,mysql,Bootstrap5
-and the application created using .Net(Deduplication).
+I just shared some of my sample works here. It includes the websites created using html,css,php,mysql,Bootstrap5.
+<br>
+The application created using .Net(Deduplication).
 Thank you
 
